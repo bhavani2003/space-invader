@@ -15,7 +15,7 @@ git clone https://github.com/bhavani2003/space-invader.git
 2. Install the dependencies: Make sure you have Pygame installed. You can install it using pip:
 pip install pygame
 3. Run the game: Execute the Python script to start the game:
-python space_invaders.py
+python space_invader.py
 
 Controls
 Arrow keys: Move the spaceship left or right.
