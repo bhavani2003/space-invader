@@ -11,7 +11,7 @@ Collision detection: Detect when the player's projectiles hit aliens or the ship
 Increasing difficulty: Aliens get faster as levels progress.
 Installation
 1. Clone the repository:
-git clone https://github.com/username/space-invaders-python.git
+git clone https://github.com/bhavani2003/space-invader.git
 2. Install the dependencies: Make sure you have Pygame installed. You can install it using pip:
 pip install pygame
 3. Run the game: Execute the Python script to start the game:
